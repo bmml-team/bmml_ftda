@@ -8,6 +8,12 @@
 
 ## Материалы
 
+[Байесовские метода машинного обучения 2025-2026, видеозаписи семинаров](https://www.youtube.com/playlist?list=PLhe7c-LCgl4JtdXlIIUc9vh0dmAeZ7Ei6).
+
+[Байесовские методы машинного обучения 2022-2023, видеозаписи лекций и семинаров](https://www.youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc).
+
+[Байесовские методы машинного обучения 2018-2019, видеозаписи лекций](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw).
+
 
 ## Занятия
 
